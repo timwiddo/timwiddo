@@ -5,7 +5,9 @@ I finished Beginner and Advanced Math Courses, including:
 * Linear Algebra 1, 2
 * Computerfocused Mathematics (at TU Berlin)
 ***
-The skills i gathered at Uni also include:
+The skills i gathered at Uni include:
+* Python
+* Solving and proving complex mathematical statements
 * Hardware (GPU/CPU/RAM/Cache)
 * Databases and Operating Systems
 * Java Courses
