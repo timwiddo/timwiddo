@@ -7,6 +7,7 @@ I finished Beginner and Advanced Math/CompSci Courses, including:
 ***
 The skills i gathered at Uni include:
 * Python
+* SQL
 * Solving and proving complex mathematical statements
 * Hardware (GPU/CPU/RAM/Cache)
 * Databases and Operating Systems
