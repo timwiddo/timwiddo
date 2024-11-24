@@ -1,5 +1,7 @@
 # 💫 About Me:
 Studied Computer Science for 2 years at the HHU in Düsseldorf.
+Currently @HWR Berlin.
+
 I finished Beginner and Advanced Math/CompSci Courses, including:
 * Calculus 1,2
 * Linear Algebra 1, 2
