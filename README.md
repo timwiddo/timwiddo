@@ -9,12 +9,10 @@ I finished Beginner and Advanced Math/CompSci Courses, including:
 * Computerfocused Mathematics (at TU Berlin)
 ***
 The skills i gathered at Uni include:
-* Python
+* Python, C, Java
 * SQL
 * Solving and proving complex mathematical statements
 * Hardware (GPU/CPU/RAM/Cache)
-* Databases and Operating Systems
-* Java Courses
 * Group Programming Projects
 
 
