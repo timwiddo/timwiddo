@@ -1,19 +1,7 @@
 # 💫 About Me:
 Studied Computer Science for 2 years at the HHU in Düsseldorf.
 
-Currently @HWR Berlin.
-
-I finished Beginner and Advanced Math/CompSci Courses, including:
-* Calculus 1,2
-* Linear Algebra 1, 2
-* Computerfocused Mathematics (at TU Berlin)
-***
-The skills i gathered at Uni include:
-* Python, C, Java
-* SQL
-* Solving and proving complex mathematical statements
-* Hardware (GPU/CPU/RAM/Cache)
-* Group Programming Projects
+Currently studying @HWR Berlin and working @Alstom as a tester.
 
 
 ## 🌐 Socials:
